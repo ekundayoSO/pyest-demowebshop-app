@@ -1,0 +1,8 @@
+
+
+
+class GenericConfigs:
+
+    LOGIN_EMAIL = your_email_address
+    LOGIN_PASSWORD = your_password
+
