@@ -12,7 +12,7 @@ cd pyest-demowebshop-app
 
 # Install Dependencies
 ```bash
-pip install -r requirement.txt 
+pip install -r requirements.txt 
 ```
 
 # Run tests
