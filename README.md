@@ -6,27 +6,27 @@ customer addresses, and navigation.
 
 # Clone Repo
 ```bash
-  git clone https://github.com/ekundayoSO/pyest-demowebshop-app.git
-  cd pyest-demowebshop-app
+git clone https://github.com/ekundayoSO/pyest-demowebshop-app.git
+cd pyest-demowebshop-app
 ```
 
 # Install Dependencies
 ```bash
-  pip install -r requirement.txt 
+pip install -r requirement.txt 
 ```
 
 # Run tests
 ```bash
-    On Windows
-    set BROWSER=chrome, firefox ...
-    set RESULTS_DIR=path_to_your_report_directory
+On Windows
+ set BROWSER=chrome, firefox ...
+ set RESULTS_DIR=path_to_your_report_directory
     
-    On Mac
-    export BROWSER=chrome, firefox ...
-    export RESULTS_DIR=path_to_your_report_directory
+On Mac
+ export BROWSER=chrome, firefox ...
+ export RESULTS_DIR=path_to_your_report_directory
 ```
 ```bash
-    cd pytest-demowebshop-app
-    run: pytest
+cd pytest-demowebshop-app
+run: pytest
 ```
 
